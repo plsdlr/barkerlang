@@ -1,6 +1,6 @@
 # barkerlang
 
-barkerlang is a experimental programming language utilizing xenotations. A longer definition will be given later. It needs Python 3.6. To run one of the provided files:
+barkerlang is a experimental programming language utilizing xenotation. A longer definition will be given later. It needs Python 3.6. To run one of the provided files:
 
     python3 main.py --path pathtofilehere  
 
